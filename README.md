@@ -1,21 +1,17 @@
 # Hi there, I'm Andrei! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Below you'll find a bit more about me and my work.
+Hey there! I'm Andrei, a Computer Science student with a passion for coding, problem-solving, and creating meaningful software. I love exploring new technologies and taking on exciting challenges. Check out my projects, and let's connect!
 
 ## About Me
 
-- 🔭 I’m currently working on a **Pomodoro Timer**  
+- 🔭 Currently developing a **Pomodoro Timer web app** to improve time management and productivity
 - 🌱 I’m currently learning **Spring Boot, React.js, and the basics of AI/Machine Learning**  
 - 📫 How to reach me: [andimagurean714@gmail.com](mailto:andimagurean714@gmail.com)  
 
 ## My Skills
 
 ### Programming Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 
 ## Projects
@@ -31,5 +27,9 @@ Here are a few highlights of my projects:
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-magurean-bb313930b/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrei_magu25/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-magurean-bb313930b/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrei_magu25/)  
+
+## 🎯 Hobbies & Interests  
+- 🏃‍♂️ **Endurance Running** – Always pushing my limits and improving my stamina.  
+- 🏓 **Table Tennis** – Love the speed and strategy of the game.  
+- 🥋 **Jiu-Jitsu** – Passionate about discipline, technique, and continuous learning. 
