@@ -19,7 +19,9 @@ Hey there! I'm Andrei, a Computer Science student with a passion for coding, pro
 Here are a few highlights of my projects:
 
 - **[Cybersecurity Retro Game](https://github.com/magureanandrei/Retro_cybersecurity_game)** - A game my friends and I created for a **Hackathon**  
-- **[Flight Management System](https://github.com/magureanandrei/Flight_Management_System?tab=readme-ov-file)** - An app designed for **efficient flight scheduling and management**  
+- **[Flight Management System](https://github.com/magureanandrei/Flight_Management_System?tab=readme-ov-file)** - An app designed for **efficient flight scheduling and management**
+- **[Pomodoro Timer Web App](https://github.com/magureanandrei/Pomodoro_timer)** - A web app to help students **study efficiently**
+- **[Wine Cellar Management System](https://github.com/magureanandrei/Wine_Cellar_Database_Project)** - An app that helps wine manufacturers to **manage their storage and stores**
 
 ## 📄 Resume  
 
