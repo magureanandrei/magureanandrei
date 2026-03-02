@@ -4,8 +4,7 @@ Hey there! I'm Andrei, a Computer Science student with a passion for coding, pro
 
 ## About Me
 
-- 🔭 Currently developing a **Pomodoro Timer web app** to improve time management and productivity
-- 🌱 I’m currently learning **Spring Boot, React.js, and the basics of AI/Machine Learning**  
+- 🔭 Currently working on my Bachelor's Thesis
 - 📫 How to reach me: [andimagurean714@gmail.com](mailto:andimagurean714@gmail.com)  
 
 ## My Skills
@@ -16,12 +15,12 @@ Hey there! I'm Andrei, a Computer Science student with a passion for coding, pro
 
 ## Projects
 
-Here are a few highlights of my projects:
+Here are a few highlights of my personal projects:
 
-- **[Cybersecurity Retro Game](https://github.com/magureanandrei/Retro_cybersecurity_game)** - A game my friends and I created for a **Hackathon**  
-- **[Flight Management System](https://github.com/magureanandrei/Flight_Management_System?tab=readme-ov-file)** - An app designed for **efficient flight scheduling and management**
-- **[Pomodoro Timer Web App](https://github.com/magureanandrei/Pomodoro_timer)** - A web app to help students **study efficiently**
-- **[Wine Cellar Management System](https://github.com/magureanandrei/Wine_Cellar_Database_Project)** - An app that helps wine manufacturers to **manage their storage and stores**
+- **[Verdura](https://github.com/magureanandrei/Verdura)** - A app meant to help being more productive(still in development) 
+- **[2Do](https://github.com/magureanandrei/2Do)** - A mobile app for ToDo Lists and Task Management(currently in version 2.1)
+- **[RunWars](https://github.com/magureanandrei/RunWars)** - A mobile app for you and your Friends to conquer land while exercising
+- **[My Bachelor's Thesis](https://github.com/magureanandrei/Bachelors-degree)** - A mobile app for type 1 diabetes patients to manage their health and sport activities better
 
 ## 📄 Resume  
 
